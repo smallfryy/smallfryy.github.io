@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: school | Immaterial Culture]]></title>
+  <link href="http://smallfryy.github.io/blog/categories/school/atom.xml" rel="self"/>
+  <link href="http://smallfryy.github.io/"/>
+  <updated>2016-02-02T12:29:08-05:00</updated>
+  <id>http://smallfryy.github.io/</id>
+  <author>
+    <name><![CDATA[Holly Peck]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[&#9733; My First Post]]></title>
+    <link href="http://smallfryy.github.io/blog/2016/02/02/my-first-post-on-octopress/"/>
+    <updated>2016-02-02T09:23:42-05:00</updated>
+    <id>http://smallfryy.github.io/blog/2016/02/02/my-first-post-on-octopress</id>
+    <content type="html"><![CDATA[<p>Hello, World! I&rsquo;m Holly. Thanks for stopping by.</p>
+]]></content>
+  </entry>
+  
+</feed>
